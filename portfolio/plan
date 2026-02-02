@@ -1,0 +1,34 @@
+Polish IT Portfolio Website (Chicago)
+Create a premium, modern portfolio website for an IT specialist based in Chicago, targeting local businesses and building management. The site will be in Polish and feature a high-tech aesthetic.
+
+Proposed Changes
+[Web Infrastructure]
+[NEW] 
+index.html
+Main structure with sections: Hero, About Me, Services, Portfolio/Projects, Contact.
+All content in Polish.
+SEO optimized tags.
+[NEW] 
+style.css
+Modern dark-themed design system.
+Responsive layout (mobile-first).
+CSS Grid/Flexbox for gallery and services.
+Animations and hover effects.
+[NEW] 
+script.js
+Smooth scrolling.
+Navbar scroll effects.
+Simple contact form handling (UI only).
+[Assets]
+Generate AI images for:
+Chicago skyline (Night/Cyberpunk feel)
+Professional server room/networking equipment
+IT specialist working on a laptop/server
+Smart building technology (CCTV, networking)
+Verification Plan
+Automated Tests
+N/A (Static site)
+Manual Verification
+View in browser to check responsiveness.
+Verify Polish language grammar and professional tone.
+Check accessibility (colors, contrast).
