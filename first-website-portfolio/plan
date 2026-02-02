@@ -1,0 +1,40 @@
+Implementation Plan - Chicago IT Specialist Portfolio
+Creating a premium, modern portfolio website for an IT specialist targeting Chicago-based businesses and buildings.
+
+Proposed Changes
+Tech Stack
+Structure: Semantic HTML5
+Styling: Vanilla CSS (Modern CSS features: Grid, Flexbox, Custom Properties)
+Logic: Vanilla JavaScript
+Animations: CSS Transitions & Intersection Observer API
+Design System
+Color Palette:
+Primary: #0A192F (Deep Navy - Professional/Trust)
+Accent: #64FFDA (Cyan/Teal - High Tech/Action)
+Secondary: #112240 (Slate Blue - Depth)
+Text: #CCD6F6 (Light Silver - Readability)
+Typography:
+Headings: 'Inter', sans-serif (Bold, Modern)
+Body: 'Roboto Mono', monospace (Technical feel)
+[NEW] Assets
+hero-chicago.jpg: A stunning Chicago skyline at night with subtle digital network overlays.
+service-networking.jpg: Close-up of high-quality networking cables/servers.
+service-security.jpg: Modern security dashboard/monitoring interface.
+service-support.jpg: IT specialist assisting a client in a modern office environment.
+[NEW] 
+index.html
+Main entry point with semantic HTML5 sections: Header, Hero, Services, Portfolio, Testimonials (Chicago focused), and Contact.
+[NEW] 
+style.css
+Global styles, typography, and responsive layout.
+Glassmorphism effects for cards and headers.
+[NEW] 
+main.js
+Smooth scrolling, scroll-triggered animations, and contact form handling.
+Verification Plan
+Automated Tests
+Run npm run dev to check for build errors.
+Use the browser tool to verify layout on Desktop and Mobile.
+Manual Verification
+Check all links and hover states.
+Verify the "Chicago Focus" is prominent in the copy and imagery.
